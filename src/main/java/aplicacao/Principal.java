@@ -1,10 +1,10 @@
 package aplicacao;
 
-import Servico.ClienteServico;
-import Servico.ProdutoServico;
-import Servico.UsuarioServico;
-import Servico.VendaServico;
 import modelo.Usuario;
+import servico.ClienteServico;
+import servico.ProdutoServico;
+import servico.UsuarioServico;
+import servico.VendaServico;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
